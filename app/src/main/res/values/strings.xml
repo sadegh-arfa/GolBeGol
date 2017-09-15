@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">کل به گل</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_time_line">TimeLineActivity</string>
+    <string name="addFirstFlower">Add the first plant</string>
+    <string name="Add">Add</string>
+</resources>
