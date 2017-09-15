@@ -17,4 +17,9 @@
     <string name="Register">Register </string>
     <string name="Now">now</string>
     <string name="title_activity_maps">Map</string>
+
+
+
+    <!-- Store -->
+    <string name="search">Advanced Search ...</string>
 </resources>
