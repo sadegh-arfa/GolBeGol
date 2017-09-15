@@ -8,10 +8,7 @@ import android.view.Window;
 import android.widget.TabHost;
 
 import golbegol.brlyan.golbegol.R;
-import golbegol.brlyan.golbegol.ui.HomeActivity;
-import golbegol.brlyan.golbegol.ui.MapActivity;
-import golbegol.brlyan.golbegol.ui.StoreActivity;
-import golbegol.brlyan.golbegol.ui.TimeLineActivity;
+
 
 public class MainActivity extends TabActivity {
 
@@ -51,7 +48,7 @@ public class MainActivity extends TabActivity {
         // Tab for map
         TabHost.TabSpec map = tabHost.newTabSpec("Map");
         map.setIndicator("", getResources().getDrawable(R.drawable.ic_tab_map));
-        Intent mapIntent = new Intent(this, MapActivity.class);
+        Intent mapIntent = new Intent(this, MapsActivity.class);
         map.setContent(mapIntent);
 
 

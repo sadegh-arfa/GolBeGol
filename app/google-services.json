@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "672601351803",
+    "firebase_url": "https://golbegol-c22b3.firebaseio.com",
+    "project_id": "golbegol-c22b3",
+    "storage_bucket": "golbegol-c22b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672601351803:android:98021931d002ecfd",
+        "android_client_info": {
+          "package_name": "golbegol.brlyan.golbegol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672601351803-38eql3clshoaljua5cipj01bbigjkcd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "golbegol.brlyan.golbegol",
+            "certificate_hash": "a08cc1f8ac73019da897a1dbcec61c90951ed874"
+          }
+        },
+        {
+          "client_id": "672601351803-9mjdubqf4l2sd940t8r0f5k90rq9ghmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCKYG2Q_AQ1nyUliXbK_BRsfWGg1C8KF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672601351803-9mjdubqf4l2sd940t8r0f5k90rq9ghmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

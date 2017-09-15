@@ -1,7 +1,20 @@
 <resources>
-    <string name="app_name">کل به گل</string>
+    <string name="app_name">Oxygen Plus</string>
     <string name="title_activity_home">HomeActivity</string>
     <string name="title_activity_time_line">TimeLineActivity</string>
     <string name="addFirstFlower">Add the first plant</string>
     <string name="Add">Add</string>
+
+
+    <!--Login Activity -->
+    <string name="welcome">Welcome</string>
+    <string name="makeYourLife">Make Your Life ...</string>
+    <string name="mailAddress">Email Address</string>
+    <string name="password">Password</string>
+    <string name="passwordRepeat">Repeat Password </string>
+    <string name="login">Login</string>
+    <string name="or">Or </string>
+    <string name="Register">Register </string>
+    <string name="Now">now</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
