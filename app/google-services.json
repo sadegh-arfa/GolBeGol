@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "672601351803",
-    "firebase_url": "https://golbegol-c22b3.firebaseio.com",
-    "project_id": "golbegol-c22b3",
-    "storage_bucket": "golbegol-c22b3.appspot.com"
+    "project_number": "1061084086978",
+    "firebase_url": "https://oxygen-plus-4a5d7.firebaseio.com",
+    "project_id": "oxygen-plus-4a5d7",
+    "storage_bucket": "oxygen-plus-4a5d7.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:672601351803:android:98021931d002ecfd",
+        "mobilesdk_app_id": "1:1061084086978:android:acca8ed10dc7d3c2",
         "android_client_info": {
-          "package_name": "golbegol.brlyan.golbegol"
+          "package_name": "health.sport.oxygen"
         }
       },
       "oauth_client": [
         {
-          "client_id": "672601351803-38eql3clshoaljua5cipj01bbigjkcd2.apps.googleusercontent.com",
+          "client_id": "1061084086978-1v05o3a9coadpuaf5nh6jsodnpphavse.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "golbegol.brlyan.golbegol",
+            "package_name": "health.sport.oxygen",
             "certificate_hash": "a08cc1f8ac73019da897a1dbcec61c90951ed874"
           }
         },
         {
-          "client_id": "672601351803-9mjdubqf4l2sd940t8r0f5k90rq9ghmv.apps.googleusercontent.com",
+          "client_id": "1061084086978-hlvhsd0okmt9oes1j8p4k2v1ivu0i78c.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBCKYG2Q_AQ1nyUliXbK_BRsfWGg1C8KF8"
+          "current_key": "AIzaSyAf0wTApe6og5VqO96Ojsq-_z7xG_mbcqo"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "672601351803-9mjdubqf4l2sd940t8r0f5k90rq9ghmv.apps.googleusercontent.com",
+              "client_id": "1061084086978-hlvhsd0okmt9oes1j8p4k2v1ivu0i78c.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

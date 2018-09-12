@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="golbegol.brlyan.golbegol.ui.SplashActivity">
+    tools:context="health.sport.oxygen.ui.SplashActivity">
+
 
 
     <LinearLayout

@@ -2,24 +2,29 @@
     <string name="app_name">Oxygen Plus</string>
     <string name="title_activity_home">HomeActivity</string>
     <string name="title_activity_time_line">TimeLineActivity</string>
-    <string name="addFirstFlower">Add the first plant</string>
-    <string name="Add">Add</string>
+    <string name="addFirstFlower">شروع اولین دوره ی آموزشی</string>
+    <string name="Add">شروع</string>
 
 
     <!--Login Activity -->
-    <string name="welcome">Welcome</string>
-    <string name="makeYourLife">Make Your Life ...</string>
-    <string name="mailAddress">Email Address</string>
-    <string name="password">Password</string>
+    <string name="welcome">اکسیژن پلاس </string>
+    <string name="makeYourLife">زندگی را زیبا بسازید ...</string>
+    <string name="mailAddress">آدرس ایمیل</string>
+    <string name="password">پسورد</string>
     <string name="passwordRepeat">Repeat Password </string>
-    <string name="login">Login</string>
-    <string name="or">Or </string>
-    <string name="Register">Register </string>
-    <string name="Now">now</string>
+    <string name="login">ورود</string>
+    <string name="or">یا </string>
+    <string name="Register">ثبت نام </string>
+    <string name="Now">کنید</string>
     <string name="title_activity_maps">Map</string>
 
 
 
     <!-- Store -->
     <string name="search">Advanced Search ...</string>
+    <string name="InvalidEmail">ایمیل نا معتبر</string>
+    <string name="InvalidPass">پسورد نا معتبر، حداقل 6 کاراکتر</string>
+    <string name="loginError">خطا در ورود، لطفا بعدا امتحان کنید</string>
+    <string name="YourName">نام کاربری</string>
+    <string name="InvalidUsername">خطا! حداقل 4 کارکتر</string>
 </resources>

@@ -2,6 +2,11 @@
 <resources>
     <color name="colorPrimary">#9da9d3</color>
     <color name="colorPrimaryDark">#7b959e</color>
+    <color name="toolbarColor">#7b959e</color>
     <color name="colorAccent">#d983a3</color>
     <color name="hintText">#9a2b2b2b</color>
+
+    <color name="previewColor">#F5f5f5</color>
+    <color name="previewColorLine">#e7e7e7</color>
+
 </resources>
